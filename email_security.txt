@@ -1,0 +1,27 @@
+1.Three key red flags that should alert you to phishing scam :
+
+• Suspicious Sender Address (Mismatched or Fake Domain)  
+For instance, the email purports to be from "Bank of America," yet it originates from support@bankofamerica.scam.com rather than an official domain such as @bankofamerica.com. Reference ( Federal Trade Commission (FTC) – How to Recognize Phishing Emails
+https://consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams).
+
+• Threatening or urgent language (expectation to take immediate action)
+ For instance: "Your account will be locked in 24 hours unless you verify your details now!" . Reference ( Anti-Phishing Working Group (APWG) – Phishing Tactics
+https://apwg.org/trendsreports/)
+
+• Links to Unsecured URLs or Fake Websites
+ For instance, the email contains a link to http://bankofamerica.login-scam.com (notice the misspelled domain and absence of "https://"). Reference ( NIST (National Institute of Standards and Technology) – Guidelines on Email Security
+https://csrc.nist.gov/publications/detail/sp/800-177/rev-1/final )
+
+2. Possible malware that can infect your computer based on the given email scenario : 
+
+• Adverse Attachments
+
+ An attachment (such as a phony "invoice.pdf" or "document.zip") may run spyware or ransomware if you open it.
+
+3. To protect yourself and our organization from phishing, social engineering and avoiding malware,follow those practice:
+
+• Keep an eye out for unsolicited emails.  Phishing emails frequently pose as reliable sources, such as banks, IT support, or coworkers.  Examine sender addresses closely for typos or odd domains (support@amaz0n.com instead of @amazon.com, for example).  Never open attachments or click links in dubious emails. Reference ( FTC’s Scam Alerts: https://www.consumer.ftc.gov/features/scam-alert )
+
+• Report any suspicious activity promptly. If you receive a phishing email or suspect a security breach, please notify the IT department immediately. Timely reporting can help prevent more significant attacks. Reference ( Federal Trade Commission (FTC). (2023). How to Recognize and Avoid Phishing Scams. https://www.consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams)
+
+•Prevent Malware Infections – Malware can be disseminated through infected attachments, malicious advertisements, or compromised USB drives. It is essential to download software exclusively from official sources, maintain up-to-date systems, and utilize antivirus tools. Additionally, security features should never be disabled for the sake of convenience. Reference ( National Institute of Standards and Technology (NIST). (2021). Guide to Malware Incident Prevention. https://csrc.nist.gov/publications/detail/sp/800-83/rev-1/final )
