@@ -1,0 +1,13 @@
+1. The risk of individuals when their emails addresses and passwords are exposed to the public:
+
+     •"OWASP – "Credential Stuffing" .  Reference ( https://owasp.org/www-community/attacks/Credential_stuffing )
+
+
+2 Two actions you that you can take to protect yourself against the risks of associated with data breaches :
+
+ • Please enable Two-Factor Authentication (2FA). This additional security measure, such as an SMS code, authenticator app, or biometric verification, provides an extra layer of protection
+ even if your password is compromised. Reference ( National Institute of Standards and Technology (NIST) – Digital Identity Guidelines (SP 800-63B)
+https://csrc.nist.gov/pubs/sp/800/63/b/upd2/final
+
+ • Utilize a Secret word Director to Make and Store Interesting Passwords  Why? Secret word supervisors create and store solid, interesting passwords for each account, avoiding credential stuffing assaults. Reference ( Tool: Have I Been Pwned (Troy Hunt) – Check if your email or passwords were exposed.
+https://haveibeenpwned.com/
